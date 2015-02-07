@@ -389,8 +389,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <item>* *, The <hi>Hypogastrium.</hi>
                   </item>
                </list>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:12"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:13"/>
+                  <figure/>
+               </p>
             </div>
             <div n="2" type="table">
                <pb facs="tcp:51999:13"/>
@@ -442,8 +448,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <item>L L, The Legs.</item>
                   <item>M M, The Arms.</item>
                </list>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:14"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:15"/>
+                  <figure/>
+               </p>
             </div>
             <div n="4" type="table">
                <pb facs="tcp:51999:15"/>
@@ -574,8 +586,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <p>G G, The Veins of the Brain lying in the Duplicature of the <hi>Pia Mater,</hi> before they enter the Longitudinal <hi>Sinus</hi>; here it is they are subject to Rupture in Concussions of the Brain, and let out their contain'd Blood between the <hi>Dura</hi> and <hi>Pia Mater</hi>; which Case I have seen more than once, where the <hi>Dura Mater</hi> ought to have been divided, <hi>&amp;c.</hi>
                   </p>
                   <p>H H, The Edges of the Skull.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:16"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:17"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="6" type="table">
@@ -683,8 +701,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <p>F F, The Hairy Scalp diffected.</p>
                   <p>G, Part of the <hi>Pericranium</hi> raised.</p>
                   <p>H, The Left Ear.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:18"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:19"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="8" type="table">
@@ -867,9 +891,20 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <p>R R, The Ninth Pair of Nerves passing thro' the Third Perforations of the Occipital-bone.</p>
                   <p>T, The First and great <hi>Foramen</hi> of the <hi>Os Oc<g ref="char:EOLhyphen"/>cipitis,</hi> by which the Spinal Marrow passes out of the Skull to the <hi>Specus</hi> of the <hi>Vertebrae</hi> of the Back.</p>
                   <p>The <hi>Sinus's</hi> of the <hi>Dura Mater,</hi> which appear where it cleaves to the Internal Part of the <hi>Basis</hi> of the Skull, are exprest in a Figure of our <hi>Appen<g ref="char:EOLhyphen"/>dix</hi>; where the Egress of the Ten Pair of Nerves of the Brain are also represented, together with the most considerable Blood-Vessels, which come in, and go out from the Cavity of the Skull.</p>
-                  <figure/>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:20"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:21"/>
+                     <figure/>
+                     <pb facs="tcp:51999:21"/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:22"/>
+                     <figure/>
+                     <pb facs="tcp:51999:22"/>
+                  </p>
                   <pb facs="tcp:51999:23"/>
                   <gap reason="duplicate" extent="1 page">
                      <desc>〈1 page duplicate〉</desc>
@@ -1229,7 +1264,10 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <head>Fig. 24.</head>
                   <p>A B, The Vitreous Humor dri'd in like manner; leaving its supposed investing Membrane only.</p>
                   <p>I should in this place (as I have hitherto, and shall hereafter in describing of Parts, to which any considerable Operation of Surgery do's belong) speak of the Couching of Cataracts; but I am afraid I have already transgress'd the limits of my Page; wherefore I shall only tell you that in Practising that Operation, the Puncture thro the <hi>Adnata,</hi> ought to be at a greater Distance from the <hi>Pupilla,</hi> than Authors commonly direct; and that a round Needle is to be preferr'd; for the edges of the Needle else are lyable to wound the Blood-Vessels of the Choroeid Tunick largely, and an Extravasation of Blood happens between that Tunick, and the <hi>Sclerotis</hi>; which may be of ill consequence to the Patient.</p>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:24"/>
+                     <figure/>
+                  </p>
                   <pb facs="tcp:51999:25"/>
                   <gap reason="duplicate" extent="1 page">
                      <desc>〈1 page duplicate〉</desc>
@@ -1238,7 +1276,10 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <gap reason="duplicate" extent="1 page">
                      <desc>〈1 page duplicate〉</desc>
                   </gap>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:26"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="12" type="table">
@@ -1375,8 +1416,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <p>D, The Duct of the Fibres.</p>
                   <p>E, The Glands situated between the Fibres.</p>
                   <p>F, Part of the Upper Jaw broken off.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:27"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:28"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="14" type="table">
@@ -1518,8 +1565,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   </p>
                   <p>W, The <hi>Glandula Sublingualis</hi> lying immediately under the <hi>Musculus Mylohyoideus.</hi>
                   </p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:29"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:30"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="16" type="table">
@@ -1570,8 +1623,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                </p>
                <p>Q, The <hi>Elevator Scapulae.</hi>
                </p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:31"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:32"/>
+                  <figure/>
+               </p>
             </div>
             <div n="18" type="table">
                <pb facs="tcp:51999:32"/>
@@ -1656,8 +1715,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <p>The Arteries which convey Blood to the <hi>Mamma,</hi> are many small Branches, Springing from the Mammary and Intercostal Arteries; of these I told Six, which afforded a Flux of Blood without Pulsation in taking off a Schirrous Breast Here I cannot omit recommending to Pra<g ref="char:EOLhyphen"/>ctitioners of Surgery the Tying of these Arteries; the doing of which is so easie, that it is hardly possible for One tollerably acquainted with the same Practice in taking off of Limbs, to be at a loss in this. The Trunks of these Arteries Arising from the Mammary and Inter<g ref="char:EOLhyphen"/>costal Arteries, are very small, as they pass between the Pectoral Mus<g ref="char:EOLhyphen"/>cle and <hi>Mamma,</hi> as appears from the Blood not having any Pulsation as it flows from them when divided in Living Bodies, except the Breast which was taken off is much Tumified. You must not expect to ful them with Wax by Injecting into the <hi>Aorta</hi>; because you are oblig d to raise the <hi>Sternum</hi> in order to Practice that Operation; whereby you cut off their Communication with the large Mammary Artery adjacent <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap>; nor do's Wax commonly pass the Intercostal Arteries so far as to reach these. The Veins of the <hi>Mamma</hi> are Numerous, and pass on the Outside of the <hi>Mamma</hi> under the Skin only, and are very Conspicuous in those who give Suck, or have had Children: These Arise, or are continued from the Extremities of the Arteries and com<g ref="char:EOLhyphen"/>posing many large Trunks which discharge their Blood into the Mam<g ref="char:EOLhyphen"/>mary and Intercostal Veins; some pass up to the Subclavian Vein. The Nerves are commonly said to Arise from the Thoracick Nerves, and pass thro' the Intercostal and Pectoral Muscles to the <hi>Mamma</hi>: I must confess I never yet trac'd Them, nor do's <hi>Vieussemus</hi> Figure Them; but in his XXIV. Table Expresses Two Branches U, X, Arising from the Sixth and Seventh Nerves of the Neck composing one Trunk, which descends and gives Branches to the <hi>Musculi Serratus minor anticus, Pectoralis, Serratus major anticus,</hi> and to the Coverings of those Muscles: From the same Nervous Stock I am apt to think may also Spring some Branches passing to the <hi>Mamma,</hi> whence those pain<g ref="char:EOLhyphen"/>ful Communications between the <hi>Mamma</hi> and <hi>Axilla</hi> may proceed. Besides these Vessels the Lymphe-Ducts of the <hi>Mamma</hi> are also men<g ref="char:EOLhyphen"/>tion'd; I must confess I never yet saw these Ducts Arising from the <hi>Mamma,</hi> yet I can't doubt of their Existence on that Part, when I reflect on what Use they are of in General, in the Animal <hi>Oeconomy,</hi> of which elsewere. The Communication between the Lactiferous Tubes and Blood-Vessels, is demonstrated in the above mention'd Expe<g ref="char:EOLhyphen"/>riment, by Injecting Mercury into the Former, and its Running out again by the Later. The Opinion that the Chyle is transmitted to the <hi>Mamma</hi> immediately from the Thoracick Duct is now altogether Ex<g ref="char:EOLhyphen"/>ploded, and the last mention'd Experiment seems to evince the Milk to be deriv'd immediately from the Blood within the <hi>Mamma.</hi> It is evident, the Milk is not Transparent like other Liquors separated from the Blood, as the <hi>Saliva, Urine, Bile,</hi> &amp;c. but by a Microscope it appears compos'd of Globules not unlike those of the Blood, except that the Globules of the Blood are somewhat larger than those of Milk.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:33"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:34"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="20" type="table">
@@ -1726,8 +1791,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                      </gap>,</hi> renders the Ascent of the Chyle by that Duct more liable to Regurgitate by the Lymphe-Ducts of the <hi>Thymus.</hi>
                </p>
                <p>H H, The Fore-part of the <hi>Diaphragma</hi> free'd from the Cartilaginous Endings of the Ribs, and Pinn'd up.</p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:36"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:37"/>
+                  <figure/>
+               </p>
             </div>
             <div n="22" type="table">
                <pb facs="tcp:51999:37"/>
@@ -1945,7 +2016,10 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <p>C, The little Fibres variously turned, laid, and disposed, accord<g ref="char:EOLhyphen"/>ing to <hi>Bidloo.</hi> I must confess I have frequently view'd the Blood in the same Manner as here Exprest with a Microscope, and have con<g ref="char:EOLhyphen"/>stantly observed its Appearance as here represented: Nor could I ever apprehend the Blood was furnished with Fibres (so much talk'd of) but that the Fibrous Appearance it has, (when any Blood-Vessel is open in the Mouth, or in Bleeding into warm Water and the like) is owing to a Coagulation of its <hi>Serum,</hi> by which Means its Globules are entangled and frame those Fibrous Bodies: The Streaked Mass repre<g ref="char:EOLhyphen"/>sented at D, E. (according to <hi>Bidloo</hi>) I am apt to think proceeded from a Coagulation of the Serous Part of the Blood, by sealing the Tube Hermetically; in doing which the Glass must be heated. To this our Author adds another Way of Anatomizing the Blood, thus:</p>
                   <p>The watery whitish Liquor, which is of a different Substance, being separated from the cold coagulated Mass of Blood, and set on the Fire, thickens in a short Time; the red Part which remains, (of which the more fluid Part being frequently washt away with warm Water,) appears like a grumous Heap; every Particle of which resembles a Glo<g ref="char:EOLhyphen"/>bular Bladder; of which, some are Transparent, others not. The rest of the Mass which consists of very flexible Fibres, according to <hi>Bidloo,</hi> and being exposed to the Air and Cold, become very tough, tensile, and seem like Net-work, owe that Appearance to a Combination of the Globules variously stratified on each other.</p>
                   <p>The Third Way (which our Author proposes) of enquiring into the Blood, is when the Blood is separated from the <hi>Serum</hi> or Li<g ref="char:EOLhyphen"/>quor it swims in, and put on a Piece of Paper dawb'd over with Lard, is become a little dry; after an External View of the Particles, gently with the Finger break off a little of the Mass of Blood; in which, you will presently behold little Globes of a differing Frame and Fi<g ref="char:EOLhyphen"/>gure, little Fibres, and Streaks of the same Kind.</p>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:38"/>
+                     <figure/>
+                  </p>
                   <pb facs="tcp:51999:39"/>
                   <gap reason="duplicate" extent="1 page">
                      <desc>〈1 page duplicate〉</desc>
@@ -1954,7 +2028,10 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <gap reason="duplicate" extent="1 page">
                      <desc>〈1 page duplicate〉</desc>
                   </gap>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:40"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="24" type="table">
@@ -2204,7 +2281,10 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                <p>S, Part of the <hi>Glutaeus Magnus.</hi>
                </p>
                <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:43"/>
+                  <figure/>
+               </p>
             </div>
             <div n="28" type="table">
                <pb facs="tcp:51999:44"/>
@@ -2273,7 +2353,10 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                <p>Z Z, The Spines of the <hi>Ossa Ilii.</hi>
                </p>
                <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:45"/>
+                  <figure/>
+               </p>
             </div>
             <div n="30" type="table">
                <pb facs="tcp:51999:46"/>
@@ -2313,8 +2396,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                <p>H, The <hi>Linea Alba.</hi>
                </p>
                <figure/>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:47"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:48"/>
+                  <figure/>
+               </p>
             </div>
             <div n="32" type="table">
                <pb facs="tcp:51999:48"/>
@@ -2381,8 +2470,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                </p>
                <p>K K, The Cartilaginous Endings of the Bastard Ribs cut from their Bony Parts, and turn'd up towards the <hi>Sternum</hi>: To these Cartilages, Parts of the Transverse Muscles of the <hi>Abdomen</hi> and the <hi>Diaphragma</hi> may be seen to Adhere in this Fi<g ref="char:EOLhyphen"/>gure.</p>
                <figure/>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:49"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:50"/>
+                  <figure/>
+               </p>
             </div>
             <div n="34" type="table">
                <pb facs="tcp:51999:50"/>
@@ -2489,7 +2584,10 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <p>The Two Orifices of the Stomach when Dri'd after Inflation. <hi>Fig.</hi> 9, The Superior. <hi>Fig.</hi> 10, The Inferior.</p>
                   <p>The <hi>Plexus</hi> of Blood-Vessels Appearing in the Inside of the Stomach, <hi>Fig.</hi> 8. are Remarkable, and their Appearance is owing to the Stagnation of the Blood in them. The Stomach cannot be Wounded into its Cavity, but many of these Ves<g ref="char:EOLhyphen"/>sels, especially the Arteries must be Divided, and no small Effusion of Blood must necessarily hap<g ref="char:EOLhyphen"/>pen, which if it flows into the Cavity of the Sto<g ref="char:EOLhyphen"/>mach, must either be Ejected by Vomit, or pass down the Intestines with the Excrements, if the Patient Survives: An Instance of which lately occur'd, where my Friend Mr. <hi>Goodier</hi> call'd me to see the Patient; who had receiv'd a Wound by a Sword on the Right <hi>Hypochondrium,</hi> which past Obliquely to the <hi>Linea Alba,</hi> imme<g ref="char:EOLhyphen"/>diately below the Ensiformal Cartilage: A Vo<g ref="char:EOLhyphen"/>mitting of Blood soon follow'd with Syncopes, which denoted the Stomach to be Wounded, not less than a Pound of Coagulated Blood being E<g ref="char:EOLhyphen"/>jected by the Mouth so soon as he was brought to his Bed. After some Hours the Vomiting ceas'd, and the Pulse was recover'd which before was very feeble: Nor was it many Days before the Patient Recover'd and could Drink Two or Three Quarts of Strong Drink at a Sitting; what became of him afterwards, we could by no means learn. By this it Appears that Wounds in the Stomach are not always Mortal, tho' they very frequently prove so, as in the Case of one Wounded in like manner with a Sword on the Left <hi>Hypochondrium,</hi> in whom the Stomach was Wounded also; but in this the Contents of the Stomach in no small Quantity, were Discharg'd with a great deal of Blood into the Cavity of the <hi>Abdomen,</hi> as Appear'd on Dissecting his Body. If the Trunk of a Large Artery happens to be Wounded on the Stomach, it is a great Chance but it proves Mortal thro' the Flux of Blood, but if the Wound happens where the Blood-Vessels are Capillary, the Flux of Blood do's not prove Fatal.</p>
                   <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:51"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="36" type="table">
@@ -2611,7 +2709,10 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <p>P, The Lympheducts of the Liver marching on the <hi>Vena Porta</hi> towards their Lymphatick Glands, placed on the Trunk of that Vein below the Liver.</p>
                   <p>Concerning the Distribution of the Vessels of the Liver, and the intimate Structure of that great Gland, consult the following Table.</p>
                   <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:53"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="38" type="table">
@@ -2777,7 +2878,10 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <p>A Gentleman of about Twenty Seven Years of Age, had for se<g ref="char:EOLhyphen"/>veral Years been very much Afflicted with the <hi>Haemorrhoides</hi> and a <hi>Procidentia Ani,</hi> who after a sudden Debauch had a great Inflamation and Tumor Affected the <hi>Anus,</hi> attended with great Pain: In the space of Twelve Hours, the Parts about the <hi>Anus</hi> Appear'd of a Livid Co<g ref="char:EOLhyphen"/>lour; soon after a Mortification follow'd. The Sphincter Muscle of the <hi>Anus</hi> being Relaxt, a <hi>Procidentia Ani</hi> follow'd; the Prolapsed Inte<g ref="char:EOLhyphen"/>stine (being expos'd to the Matter which flow'd from the Adjacent Parts) soon suffer'd Mortification. The Patient after some Weeks recover'd his usual Strength, and in a few Months became perfectly Well. Nor did any inconveniency follow by reason of the Mortification of the Prolapsed Intestine; but on the Contrary, He continued Well, and was free'd not only from the Habitual <hi>Haemorrhoides,</hi> but was after<g ref="char:EOLhyphen"/>wards free'd from a <hi>Procidentia Ani.</hi>
                   </p>
                   <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:55"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="40" type="table">
@@ -2868,7 +2972,10 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                <p>V, A Portion of the <hi>Arteria Mesenterica Inferior</hi> in like Manner Divided.</p>
                <p>W, The Umbilical Ligament of the Liver turn'd Upwards, and not free'd from its Inclosing Membranes.</p>
                <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:57"/>
+                  <figure/>
+               </p>
             </div>
             <div n="42" type="table">
                <pb facs="tcp:51999:58"/>
@@ -2984,8 +3091,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   </p>
                   <p>B, The <hi>Pelvis</hi> or Beginning of the <hi>Vreter</hi> lying within the Body of the Kidney.</p>
                   <p>C D, The Ramifications of the <hi>Pelvis</hi> cut from the <hi>Cor<g ref="char:EOLhyphen"/>pora Papillaria,</hi> or Endings of the Urinary Tubes.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:59"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:60"/>
+                     <figure/>
+                  </p>
                   <figure/>
                </div>
             </div>
@@ -3088,8 +3201,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   </p>
                   <p>I I, The <hi>Tunica Vaginalis</hi> of the <hi>Vas Deferens</hi> Compos'd of Circular Fibres according to <hi>Bidloo.</hi>
                   </p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:61"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:62"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="46" type="table">
@@ -3241,8 +3360,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <p>M, The <hi>Fraenum.</hi>
                   </p>
                   <p>N, The <hi>Vrethra</hi> open'd</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:63" rendition="simple:additions"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:64" rendition="simple:additions"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="48" type="table">
@@ -3358,8 +3483,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                <p>M M, Parts of the <hi>Musculus Psoi Magni.</hi>
                </p>
                <p>N, The <hi>Ligamentum Venosum Umbilicale</hi> Turn'd up.</p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:65"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:66"/>
+                  <figure/>
+               </p>
             </div>
             <div n="50" type="table">
                <pb facs="tcp:51999:66"/>
@@ -3487,8 +3618,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   </p>
                   <p>W W, Portions of the <hi>Ligamenta rotunda Vterina.</hi>
                   </p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:67"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:68"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="52" type="table">
@@ -3575,8 +3712,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   <p>H, The Round Ligament of the Left Side.</p>
                   <p>I I, The Broad Ligaments like Batt's Wings joining the <hi>Falloppian</hi> Tubes to the <hi>Ovaria,</hi> where the Blood-Vessels passing to and from the <hi>Ovaria,</hi> are Exprest.</p>
                   <p>K K, The <hi>Vasa Spermatica</hi> cut off. These Spermatick Veins and Arteries are not only Inos<g ref="char:EOLhyphen"/>culated in their Large Trunks, with the Hypoga<g ref="char:EOLhyphen"/>strick Veins and Arteries of the <hi>Vterus,</hi> but those of the Right Side of the <hi>Vterus,</hi> are Inosculated with the Left, in such Manner that by Injecting of Wax into one of the Spermatick Veins, it will not only fill the Hypogastricks, but the Sperma<g ref="char:EOLhyphen"/>tick Vein also of the contrary Side. The like will not happen by Injecting Wax into the Arte<g ref="char:EOLhyphen"/>ries, because their Trunks are Smaller than the Veins. But Mercury readily passes from the Arteries of one Side to those of the other.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:69"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:70"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="54" type="table">
@@ -3620,8 +3763,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                </p>
                <p>N, Part of the <hi>Chorion</hi> Rais'd from the <hi>Amnios,</hi> and Left to the <hi>Uterus</hi> it self on the Right Side.</p>
                <p>Part of the Liver Appears above the Intestines immediately under the Ensi<g ref="char:EOLhyphen"/>formal Cartilage.</p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:71"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:72"/>
+                  <figure/>
+               </p>
             </div>
             <div n="56" type="table">
                <pb facs="tcp:51999:72"/>
@@ -3688,8 +3837,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   </p>
                   <p>H, A Portion of the <hi>Chorion.</hi>
                   </p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:73"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:74"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="58" type="table">
@@ -3738,8 +3893,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                <p>N N, Divers Indentations made in the Veins where the Arteries pass over them.</p>
                <p>O, The Concourse of the Umbilical Vessels to their Inclosure in the External Membrane of the Umbilical Rope (P).</p>
                <p>P, That Part of the Umbilical Rope, whose External Surface in Cows is full of Tubercles, which we suppose are plac'd at the Extremities of the Succiferous Ducts, where they Discharge their Contents into the <hi>Amnios.</hi> This Part of the Umbilical Rope in these Animals we find Distended with a Mucilaginous Mat<g ref="char:EOLhyphen"/>ter, somewhat Thicker than that contain'd in the <hi>Amnios,</hi> but like it in Colour.</p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:75"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:76"/>
+                  <figure/>
+               </p>
             </div>
             <div n="60" type="table">
                <pb facs="tcp:51999:76"/>
@@ -3938,8 +4099,14 @@ What we have hinted concerning the Complication of Tast<g ref="char:EOLhyphen"/>
                   </p>
                   <p>F, Its Bifurcation.</p>
                   <p>G G, Its Two Internal Iliack Arteries, whence the Umbilical Arteries arise.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:79"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:80"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="64" type="table">
@@ -4057,8 +4224,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                </p>
                <p>O, The <hi>Radius.</hi>
                </p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:81"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:82"/>
+                  <figure/>
+               </p>
             </div>
             <div n="66" type="table">
                <pb facs="tcp:51999:82"/>
@@ -4128,8 +4301,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                   <g ref="char:cross">✚</g>, <hi>Pronator Radii Teres.</hi>
                </p>
                <p>ψ, The Lower Part of the Bicipital Muscle.</p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:83"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:84"/>
+                  <figure/>
+               </p>
             </div>
             <div n="68" type="table">
                <pb facs="tcp:51999:84"/>
@@ -4204,8 +4383,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                </p>
                <p>S, Part of the <hi>Biceps Cubiti.</hi>
                </p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:85"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:86"/>
+                  <figure/>
+               </p>
             </div>
             <div n="70" type="table">
                <pb facs="tcp:51999:86"/>
@@ -4279,8 +4464,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                </p>
                <p>V V V, The <hi>Inter-Ossei.</hi>
                </p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:87"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:88"/>
+                  <figure/>
+               </p>
             </div>
             <div n="72" type="table">
                <pb facs="tcp:51999:88"/>
@@ -4346,8 +4537,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                <p>N, The <hi>Musculus Quadratus Femoris</hi>: It Arises Broad and Fleshy from the <hi>Epi<g ref="char:EOLhyphen"/>physis</hi> of the <hi>Os Ischium,</hi> and passes Transversly of an equal Breadth and Thickness to its partly Fleshy and partly Tendinous Implantation, at the Posterior Part of the <hi>Os Femoris<g ref="char:punc">▪</g>
                   </hi> below the Great <hi>Trochanter</hi>: This turns the Thigh Outwards.</p>
                <p>O, Divers Muscles of the <hi>Tibia</hi> near their Origin.</p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:89"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:90"/>
+                  <figure/>
+               </p>
             </div>
             <div n="74" type="table">
                <pb facs="tcp:51999:90"/>
@@ -4412,8 +4609,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                <p>M, The <hi>Psoas</hi> together with the <hi>Iliacus Inter<g ref="char:EOLhyphen"/>nus,</hi> near their Insertions.</p>
                <p>N, The <hi>Os Pubis.</hi>
                </p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:91"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:92"/>
+                  <figure/>
+               </p>
             </div>
             <div n="76" type="table">
                <pb facs="tcp:51999:92"/>
@@ -4468,8 +4671,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                <p>O, Part of the Crural Nerve.</p>
                <p>P P, The Two Fleshy Beginnings of the <hi>Gasterocnemius Externus.</hi>
                </p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:93"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:94"/>
+                  <figure/>
+               </p>
             </div>
             <div n="78" type="table">
                <pb facs="tcp:51999:94"/>
@@ -4510,8 +4719,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                <p>H, Part of the Great <hi>Trochanter.</hi>
                </p>
                <p>The Muscles Adjacent to these Parts last mention'd, are here so confusedly Exprest, as no Explanation of them can be Asserted.</p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:95"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:96"/>
+                  <figure/>
+               </p>
             </div>
             <div n="80" type="table">
                <pb facs="tcp:51999:96"/>
@@ -4577,8 +4792,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                </p>
                <p>N. B. <hi>That the</hi> Fascia Membranosa <hi>which Helps to Compose the Annular Ligament, between the Two</hi> Malleoli <hi>and Upper-part of the Foot or</hi> Tarsus, <hi>commonly, call'd the Instep, is here taken off from its Continuance near Half the Lower-part of the</hi> Tibia, <hi>that of the Upper-part of the Leg or</hi> Ti<g ref="char:EOLhyphen"/>bia <hi>remaining on, as is well Exprest in this Figure.</hi>
                </p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:97"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:98"/>
+                  <figure/>
+               </p>
             </div>
             <div n="82" type="table">
                <pb facs="tcp:51999:98"/>
@@ -4658,8 +4879,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                </p>
                <p>Note, <hi>That Part of the</hi> Flexor Digitorum Pe<g ref="char:EOLhyphen"/>dis Perforans <hi>and</hi> Flexor Pollicis, <hi>may be seen in this Position of the Part between</hi> M <hi>and</hi> Q; <hi>but the Membranes not being taken off (in the Sub<g ref="char:EOLhyphen"/>ject whence this Figure was taken) those Mus<g ref="char:EOLhyphen"/>cles are here Exprest very Obscurely.</hi>
                </p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:99"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:100"/>
+                  <figure/>
+               </p>
             </div>
             <div n="84" type="table">
                <pb facs="tcp:51999:100"/>
@@ -4709,8 +4936,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                <p>I, The <hi>Perforatus in Situ,</hi> Describ'd <hi>Tab.</hi> 83.</p>
                <p>K, The <hi>Flexor Pollicis Pedis Longus</hi> is an Antagonist to the <hi>Extensor Longus</hi>; It Arises opposite to it from the Back-part of the <hi>Fibula,</hi> with a Double Order of Fleshy. Fibres passing to a Middle Tendon; it ceases to be Fleshy as it passes over the Juncture of the <hi>Talus,</hi> running through a Channel on the Internal Part of the <hi>Os Calcis,</hi> its Tendon still Marches under the Tendon of the <hi>Musculus Flexor Di<g ref="char:EOLhyphen"/>gitorum Longus Perforans,</hi> to which it most commonly joins, and passes in a De<g ref="char:EOLhyphen"/>pressure made in the <hi>Flexor Pollicis Brevis</hi> (Elgantly Exprest in this Figure) to its Insertion at the last Bone of the Great Toe: Its Name Declares its Office. There are many remarkable Parts Exprest in this Figure, which have been al<g ref="char:EOLhyphen"/>ready Explain'd in the preceding Tables, as the <hi>Os Calcis</hi> made bare, the <hi>Malleo<g ref="char:EOLhyphen"/>lus Internus,</hi> the <hi>Musculus Abductor Minimi Digiti,</hi> &amp;c. Wherefore we shall not In<g ref="char:EOLhyphen"/>sert particular Characters of them here, as we have done in the foregoing Tables.</p>
                <figure/>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:101"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:102"/>
+                  <figure/>
+               </p>
             </div>
             <div n="86" type="table">
                <pb facs="tcp:51999:102"/>
@@ -4806,8 +5039,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                </p>
                <p>5, The Bones of the Foot.</p>
                <figure/>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:103"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:104"/>
+                  <figure/>
+               </p>
             </div>
             <div n="88" type="table">
                <pb facs="tcp:51999:104"/>
@@ -4918,8 +5157,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                            <desc>•</desc>
                         </gap>urth is Exprest in the First Figure of this Table, and again in</hi> Tab. 92. Fig. 1. I, <hi>within the Orbit of the Eye, and in</hi> Fig. 2. <hi>of the same Table</hi> (V V); <hi>by this</hi> Foramen, <hi>or rather Large</hi> Rima <hi>like the Second</hi> Foramen (<hi>made by the Fourth Bone of the Upper Iaw and</hi> Cuneiforme) <hi>pass the Branches of the Third, Fifth and some of the Sixth Pan of Nerves, after passing thro' the Second</hi> Foramen, <hi>to the Adjacent Muscles and Parts, together with Large Blood-Vessels of both Kinds, especially to the Temporal Muscle. The Fifth</hi> Foramen <hi>of the</hi> Os Cuneiforme, <hi>is Compos'd at its meeting of the</hi> Os Petrosum <hi>and</hi> Occipitale, <hi>Exprest</hi> Tab. 92. Fig. 2. X, X; <hi>which External Aperture there Represented, is partly fill'd with a Cartilage, but its Internal</hi> Foramen <hi>Transmits the Carotid Artery to the Lateral Part of the</hi> Sella Equina; <hi>which Artery First enters the</hi> Cranium <hi>by the</hi> Os Petrosum, <hi>as Appears in the last mention'd Fi<g ref="char:EOLhyphen"/>gure</hi> (Z Z); <hi>by this</hi> Foramen <hi>the Intercostal Nerve passes out of the Skull. The Sixth Perforation of the</hi> Os Sphenoides <hi>is Describ'd in the last mention'd Table and Figure</hi> (Y), <hi>and is Compleatly fill'd by a Branch of the Fifth Pair of Nerves: The Seventh</hi> Foramen <hi>of this Bone is Externally Laterally Adjacent to the Sixth, and is most com<g ref="char:EOLhyphen"/>monly of an Oval Figure; by it a small Branch of the Carotid Artery passes to the</hi> Dura Mater, <hi>Accompanied with a Vein Running Paralel with it; which Frame those</hi> Sulci <hi>in the Bone, Exprest in this Figure</hi> (F F Superior), <hi>and in that of</hi> Tab. 91. Fig. 2. F F.</p>
                   <figure/>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:105"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:106"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="90" type="table">
@@ -5108,8 +5353,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                   </p>
                   <p>F F, The Channels Fram'd by the Blood-Vessels of the <hi>Dura Mater</hi>: These Insculptures or Furrows of the Bone, I found very Large in the Skull of a Per<g ref="char:EOLhyphen"/>son I lately Dissected, who Died Apoplectick, in whom the Blood-Vessels of the <hi>Dura Mater</hi> were proportionably Augmented to the Magnitude of a Goose-Quill. In this Subject divers Large <hi>Foveae</hi> Appear'd in the Skull, breaking out as it were from the Impression of the Longitudinal <hi>Sinus</hi>; One of which <hi>Foveae</hi> exceeded Half an Inch in its Diameter. When the Top of the <hi>Cranium</hi> was oppos'd to the Light, the <hi>Foveae</hi> above mention'd, as well as the Large Furrows of the Ves<g ref="char:EOLhyphen"/>sels Appear'd Transparent, not unlike the Horn commonly made Use of in Lan<g ref="char:EOLhyphen"/>terns; nor indeed did the Thickness of the Skull in those Parts much exceed it: By this, we may be Inform'd with what Caution we ought to Use the <hi>Trepan</hi> in Perforating the Skull, especially near the Longitudinal Suture, as also Lateral<g ref="char:EOLhyphen"/>ly on the <hi>Bregma,</hi> where those Vessels usually take their Course; and that more especially when the Patient has suffer'd under Habitual Head-Aches, which was Remarkable in the Person last mention'd, even from his Infancy; for doubtless these Cavities and Furrows have an early Date, from an Irregular Formation of the Blood-Vessels; whence the Refluent Blood is Subject to be Retarded, and the Neighbouring Parts as the <hi>Pericranium,</hi> &amp;c. suffer Tension and Pain.</p>
                   <p>B <hi>Superior</hi> and E, The Channel or Impression which the Longitudinal <hi>Sinus</hi> makes in the Middle and Upper-part of the Skull, according to the Length of the Sagittal Suture.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:107"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:108"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="92" type="table">
@@ -5351,8 +5602,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                   <p>C C, The Bodies of the <hi>Vertebrae.</hi>
                   </p>
                   <p>D D, Their Spinal Process's.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:109"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:110"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="94" type="table">
@@ -5464,8 +5721,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                   </p>
                   <p>E E E, The <hi>Sinus's</hi> in the Middle Bone of the <hi>Sternum</hi> Laterally; in which the Cartilaginous Extremities of the True Ribs are Receiv'd.</p>
                   <p>F, The Lower Bone of the <hi>Sternum</hi>; the Extremity of which is commonly Cartilaginous, and call'd <hi>Cartilago Mucronata</hi> or <hi>Ensiformis</hi>; Externally it Frames that Cavity call'd <hi>Scrobiculus Cordis</hi> or Heart-pit, commonly call'd the <hi>Pit of the Stomach</hi>: The Pains of which Part are call'd <hi>Cardial<g ref="char:EOLhyphen"/>giae,</hi> they Affecting the Upper Orifice of the Stomach call'd <hi>Cardia,</hi> where the <hi>Plexuss's</hi> of the Up<g ref="char:EOLhyphen"/>per and Lower Stomach Nerves are made.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:111"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:112"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="96" type="table">
@@ -5678,8 +5941,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                   <p>L, The Great <hi>Foramen</hi> of the <hi>Ischium</hi> and <hi>Pubis.</hi>
                   </p>
                   <p>N. B. <hi>The Three Bones which Compose the</hi> Os Innominatum, <hi>all meet and join in the</hi> Acetabulum.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:115"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:116"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="100" type="table">
@@ -5777,8 +6046,14 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                <p>17, The <hi>Ossa Metatarsi.</hi>
                </p>
                <p>18, The Bones of the Toes, which are Cartilaginous at their Extremities, like those of the Fingers.</p>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51999:117"/>
+                  <figure/>
+               </p>
+               <p>
+                  <pb facs="tcp:51999:118"/>
+                  <figure/>
+               </p>
             </div>
             <div n="102" type="table">
                <pb facs="tcp:51999:118"/>
@@ -5991,7 +6266,10 @@ o's not readily return by the Veins. This Structure of the Extremities of the Bl
                   <p>C, Its External Convex Part, where its <hi>Series</hi> of Fibres Appear Extended according to its Length, from A to C.</p>
                   <p>D, Its <hi>Limbus</hi> or Extream Part, which Projects over the Top of the Finger or Toe.</p>
                   <p>The Nails Arise from their Subjacent Parts, call'd their Roots, Fram'd of a Complication of Nerves and Blood-Vessels; whence Horny Fibres or Tubes Arise, and being United, Compose that Hard Bo<g ref="char:EOLhyphen"/>dy call'd the Nail. The Horny Fibres which make the Outside or Convex Surface of the Nail, Arise from the Lower-part of its Root next the Second Internode of the Finger; the rest of the Horny Fi<g ref="char:EOLhyphen"/>bres which Arise from the Superior Part of its Root towards the Top of the Finger; successively make the Internal Concave Surface of the Nail: So that the Extremity of the Nail which Extends it self be<g ref="char:EOLhyphen"/>yond the Top of the Finger, is Fram'd of all the Fibres which Arise from the Surface of its Root, and is much Thicker than its other Extream towards its Root: Hence it happens that the External Surface towards the Root of the Nail is Protruded Forwards towards its Top; as may be Observ'd if you Mark the Lower-part of the Nail towards its Root, you will see it advance to the Top; which at Length is either Worn away or cut off. When any Corosive Matter (as in a <hi>Paronychia</hi> or the like) destroys the Tender Roots of the Horny Fibres, the Nail necessarily falls off; but nevertheless it will Bud again, and a New Nail will Grow in its place; which commonly do's not prove so Beauti<g ref="char:EOLhyphen"/>ful as the Former, whether occasion'd by too early Using it, or its being Expos'd to the External Air, or some inconvenient Covering made Use of, to Defend it from Outward Injuries.</p>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:121"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
          </div>
@@ -6303,8 +6581,14 @@ tle Distended also; in the Middle of which Indura<g ref="char:EOLhyphen"/>tion o
                   </p>
                   <p>46, 46, The <hi>Abductor Minimi Digiti</hi> on both Feet.</p>
                   <p>47, Part of the Tendon of the <hi>Extensor Digitorum Longus</hi> on the Right Foot.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:124"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:125"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="3" type="table">
@@ -6722,8 +7006,14 @@ Closing up. The too early Occlusion of these Passages in Chil<g ref="char:EOLhyp
                   <p>C, The Importing,</p>
                   <p>B, The Exporting Lympheduct.</p>
                   <p>D D, The Communicant Branch.</p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:126"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:127"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="5" type="table">
@@ -7132,8 +7422,14 @@ Closing up. The too early Occlusion of these Passages in Chil<g ref="char:EOLhyp
                   <p>d d, The Cineritious Part of the <hi>Medulla Oblongata</hi> under the <hi>Corpora Pyramidalia</hi>: In this Section the <hi>Corpora Olivaria</hi> are Di<g ref="char:EOLhyphen"/>vided.</p>
                   <p>e, The Left Chordal Process partly <hi>in Situ.</hi>
                   </p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:128"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:129"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="7" type="table">
@@ -7351,8 +7647,14 @@ Closing up. The too early Occlusion of these Passages in Chil<g ref="char:EOLhyp
                   </p>
                   <p>N, Part of the <hi>Os Sphenoides.</hi>
                   </p>
-                  <figure/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:51999:130"/>
+                     <figure/>
+                  </p>
+                  <p>
+                     <pb facs="tcp:51999:131"/>
+                     <figure/>
+                  </p>
                </div>
             </div>
             <div n="9" type="table">
